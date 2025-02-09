@@ -1,0 +1,47 @@
+.textdict {  
+    width: 800px;  
+    padding: 18px 20px;  
+    box-sizing: border-box;  
+    border: 1px solid #000000;  
+    border-radius: 4px;  
+    background: #fff;  
+    max-height: 300px;  
+    resize: vertical;  
+    color: #A9A9A9;  
+}  
+.fielded {  
+    color: #A9A9A9;  
+    border: 1px solid #000000;  
+    background: #fff;  
+    width: 467px;  
+    margin-bottom: 20px;  
+    resize: none;  
+}  
+  
+.fielded input {  
+    background: white;  
+}  
+  
+.button {  
+    background: cornflowerblue;  
+    border: 1.5px solid white;  
+    box-sizing: border-box;  
+    color: white;  
+    border-radius: 0;  
+    padding: 15px 18px;  
+    font-family: 'Montserrat';  
+    font-style: normal;  
+    font-weight: 700;  
+    font-size: 20px;  
+    line-height: 20px;  
+}  
+  
+.button:hover {  
+    background: #7f87ff;  
+}  
+.textcomment{  
+    display: flex;  
+}  
+.comment{  
+    display: none;  
+}

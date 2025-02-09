@@ -1,0 +1,38 @@
+.footer { 
+    position: relative; 
+    display: flex; 
+    text-align: bottom; 
+    justify-content: space-between; 
+    background: cornflowerblue; 
+    margin-top: 270px; 
+} 
+ 
+.text { 
+    font-family: 'Montserrat'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 20px; 
+    line-height: 24px; 
+    width: 200px; 
+    color: rgba(255, 255, 255, 0.8); 
+    margin-left: 10px; 
+} 
+ 
+.footer-link { 
+    font-family: 'Montserrat'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 20px; 
+    line-height: 20px; 
+    margin-right: 80px; 
+    text-decoration: none; 
+    color: rgba(255, 255, 255, 0.8); 
+} 
+ 
+.nav { 
+    margin-right: 300px; 
+} 
+ 
+.footerDiv { 
+    margin-top: 45px; 
+}

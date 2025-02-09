@@ -1,0 +1,38 @@
+.exh2 { 
+    font-family: 'Montserrat'; 
+    font-style: normal; 
+    font-weight: 400; 
+    font-size: 20px; 
+    line-height: 24px; 
+    width: 60%;
+    color: rgba(0, 0, 0, 0.6); 
+} 
+ 
+.ul { 
+    margin-top: 40px; 
+} 
+ 
+.li { 
+    margin: 0; 
+    font-size: 20px; 
+    list-style: none; 
+    list-style-image: url("../../img/Strelka.jpeg") ; 
+} 
+ 
+.exp { 
+    margin: 0; 
+    margin-bottom: 25px; 
+    margin-top: 5px; 
+    color: #2AE1C0; 
+    font-size: 25px; 
+    font-weight: bold; 
+} 
+ 
+.flexDiv { 
+    display: flex; 
+}
+
+.myExImg {
+    margin-left: 0px;
+    margin-top: 30px;
+}

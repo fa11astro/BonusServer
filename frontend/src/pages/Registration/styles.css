@@ -1,0 +1,17 @@
+.registration-holder {
+    display: flex;
+    justify-content: space-between;
+}
+
+.reg {
+    width: 300px;
+}
+
+.enter {
+    margin-top: 95px;
+    margin-bottom: 40px;
+}
+
+.div {
+    margin-left: 100px;
+}

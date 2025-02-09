@@ -1,0 +1,59 @@
+.logo { 
+    margin: 0; 
+    padding: 0; 
+} 
+ 
+.header { 
+    display: flex; 
+    justify-content: space-between; 
+    background: cornflowerblue; 
+} 
+ 
+.nav { 
+    margin-right: 50px; 
+    margin-top: 25px; 
+} 
+ 
+.enterBtn { 
+    font-family: 'Montserrat'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 20px; 
+    line-height: 20px; 
+    color: #ffb77f; 
+    background: #FFFFFF; 
+    border: none; 
+    box-sizing: border-box; 
+    width: 110px; 
+    height: 48px; 
+    left: 887px; 
+    top: 25px; 
+} 
+ 
+.regBtn { 
+    font-family: 'Montserrat'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 20px; 
+    line-height: 20px; 
+    color:white; 
+    background:#ffb77f; 
+    border: none; 
+    box-sizing: border-box; 
+    width: 175px; 
+    height: 48px; 
+    left: 1008px; 
+    top: 25px; 
+} 
+ 
+.enterBtn:hover { 
+    background: #ffb77f; 
+    color: white; 
+    transition: all 0.5s linear 0s; 
+} 
+ 
+.regBtn:hover { 
+    background: white; 
+    color: #ffb77f; 
+    transition: all 0.5s linear 0s; 
+}

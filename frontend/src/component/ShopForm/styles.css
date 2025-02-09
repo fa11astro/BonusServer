@@ -1,0 +1,23 @@
+.pp {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    width: 381px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.colorP {
+    color: #2AE1C0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.shopB {
+    margin-right: 50px;
+}
+
+.pColor {
+    opacity: 0.6;
+}

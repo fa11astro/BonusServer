@@ -1,0 +1,43 @@
+.field {
+    color: #A9A9A9;
+    border: 1px solid #000000;
+    background: #fff;
+    width: 467px;
+    margin-bottom: 20px;
+}
+
+.field input {
+    background: white;
+}
+
+.title {
+    font-size: 44px;
+    width: 440px;
+}
+
+.button {
+    background: cornflowerblue;
+    border: 1.5px solid white;
+    box-sizing: border-box;
+    color: white;
+    border-radius: 0;
+    padding: 15px 18px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.button:hover {
+    background: #7f87ff;
+}
+
+.sign {
+    display: flex;
+}
+
+.signImg {
+    margin: 0;
+    margin-left: 400px;
+}
